@@ -2,8 +2,8 @@ import pandas as pd
 import numpy as np
 
 data={
-    'Name':['Tom','nick','krish','jack'],
-    'Age':[20,21,19,218]
+    'Name':['Tomy','nicky','krishy','jack'],
+    'Age':[22,22,12,215]
 }
 
 df=pd.DataFrame(data)
